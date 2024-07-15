@@ -1,8 +1,8 @@
 # Documentation
 
-*  Instalation.
-*  Mise en place.
-*  Commit.
+- Instalation.
+- Mise en place.
+- Commit.
 
 ```javascript
 anime({
@@ -15,5 +15,7 @@ anime({
 ```
 
 ```css
-body {color: green;}
+body {
+  color: green;
+}
 ```
